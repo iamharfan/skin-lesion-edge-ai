@@ -1,6 +1,3 @@
-# skin-lesion-edge-ai
-Skin cancer is one of the most common forms of cancer globally, and early detection can significantly improve treatment outcomes. In this project, we develop a lightweight convolutional neural network for classifying skin lesions into multiple diagnostic categories using the HAM10000 dataset.
-
 # Real-Time Skin Lesion Classification on Edge Devices
 
 This project aims to develop a lightweight and accurate skin lesion classification model using deep learning. The system is optimized for deployment on edge devices such as low-power GPUs or mobile platforms.
